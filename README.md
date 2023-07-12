@@ -1,5 +1,5 @@
 # odin-recipes
-![Screenshot of recipe landing page](images/odin-recipesss.jpeg)
+![Screenshot of recipe landing page](recipes/images/odin-recipesss.jpeg)
 
 # TOP-Recipe Website
 
