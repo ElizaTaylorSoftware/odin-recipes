@@ -1,5 +1,8 @@
 # odin-recipes
 ![Screenshot of recipe landing page](recipes/images/odin-recipesss.jpeg)
+![Screenshot of Peanut Butter Bites recipe](recipes/images/peanutbutterbitesss.jpeg)
+![Screenshot of Soy Glaze Tofu recipe](recipes/images/soyglazess.jpeg)
+![Screenshot of Veggie Meal prep recipe](recipes/images/veggiemealprepss.jpeg)
 
 # TOP-Recipe Website
 
