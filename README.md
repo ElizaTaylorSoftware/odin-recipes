@@ -25,3 +25,4 @@ A recipe website with multiple linked pages
 ## Future Implementations
 
 - CSS
+- Return and movement links
